@@ -342,7 +342,7 @@ while True:
             match choice_of_history:
                 case 1:
                     for entry in expenses_list:
-                        entry.get_expense_details(context="HISTORY")
+                        entry.display_expense_details(context="HISTORY")
                 case 2:
                     for entry in income_list:
                         entry.display_income_details(context="HISTORY")
