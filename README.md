@@ -44,7 +44,6 @@ Current Status: MVP (Actively in Development)
 
 # PROJECT STRUCTURE:
 FinTrack/
-|
 
 |--fintrack_main.py
 
