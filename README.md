@@ -45,19 +45,33 @@ Current Status: MVP (Actively in Development)
 # PROJECT STRUCTURE:
 FinTrack/
 |
+
 |--fintrack_main.py
+
 |--user.py
+
 |--transaction.py
+
 |--asset.py
+
 |--liability.py
+
 |--finance_manager.py
+
 |--storage_manager.py
+
 |--file_setup.py
+
 |
+
 |--users.csv
+
 |--transactions.csv
+
 |--assets.csv
+
 |--liabilities.csv
+
 
 # HOW TO RUN:
 1) Clone the repository
